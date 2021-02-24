@@ -4,3 +4,4 @@
 4- Dev 2. Commit.
 5- Feature eklendi 1. Commit
 6- feature yeni bir şey ekledim.
+7-deneme
