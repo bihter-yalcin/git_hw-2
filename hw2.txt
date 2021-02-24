@@ -2,3 +2,4 @@
 2-Master branch 2. Commit.
 3- dev oluşturuldu 1. Commit.
 4- Dev 2. Commit.
+5- Feature eklendi 1. Commit.
