@@ -1,4 +1,4 @@
 1-Henüz git repo almadım. 
 2-Master branch 2. Commit.
 3- dev oluşturuldu 1. Commit.
-4. Dev 2. Commit.
+4- Dev 2. Commit.
